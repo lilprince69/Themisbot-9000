@@ -7,7 +7,7 @@
 <div align="center">
   📖 [GitHub](https://github.com/lilprince69/Themisbot-9000) |
   <a href="https://x.com/ThemisBot9000">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/24px-X_logo_2023_original.svg.png" alt="X Logo">
+    <img src="https://github.com/yourusername/themis-ai/raw/main/assets/x-logo-circle.png" alt="X Logo" width="24">
   </a>
 </div>
 
