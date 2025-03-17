@@ -5,7 +5,10 @@
 </div>
 
 <div align="center">
-  📖 [Docs](./docs/usage.md) | 🎯 [Examples](https://github.com/yourusername/themis-ai-examples)
+  📖 [GitHub](https://github.com/lilprince69/Themisbot-9000) |
+  <a href="https://x.com/ThemisBot9000">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/24px-X_logo_2023_original.svg.png" alt="X Logo">
+  </a>
 </div>
 
 ## 🚩 What’s This Crap?
@@ -14,25 +17,25 @@ Themis AI ain’t your average bot—it’s a sassy, X-stalking menace that snif
 
 ## ✨ Features That Don’t Suck
 
-- 🛠️ Hooks into X (Twitter) like a pro stalker
-- 🧠 Analyzes tweets to spot the phonies
-- 😈 Grows a personality from *your* settings—make it a jerk, I ain’t your babysitter
-- 📦 Works if you’re not a complete idiot
-- 🚀 Extensible—add your own junk if you’re smart enough (doubt it)
+- 🛠️ Hooks into X (Twitter) like a pro stalker  
+- 🧠 Analyzes tweets to spot the phonies  
+- 😈 Grows a personality from *your* settings—make it a jerk, I ain’t your babysitter  
+- 📦 Works if you’re not a complete idiot  
+- 🚀 Extensible—add your own junk if you’re smart enough (doubt it)  
 
 ## 🎯 Use Cases (If You’ve Got a Brain)
 
-- 🤖 Roast bots for X clowns
-- 🕵️ Hunt down fake accounts
-- 🎮 Mess with NPC vibes
-- 🧠 Annoy traders with sass
+- 🤖 Roast bots for X clowns  
+- 🕵️ Hunt down fake accounts  
+- 🎮 Mess with NPC vibes  
+- 🧠 Annoy traders with sass  
 
 ## 🚀 Quick Start (Figure It Out, Scrub)
 
 ### Stuff You Need
 
-- [Python 3.8+](https://www.python.org/downloads/) (don’t use 2.7, you fossil)
-- [Git](https://git-scm.com/downloads) (duh)
+- [Python 3.8+](https://www.python.org/downloads/) (don’t use 2.7, you fossil)  
+- [Git](https://git-scm.com/downloads) (duh)  
 
 ### Get It Running
 
